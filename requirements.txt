@@ -2,6 +2,5 @@ dash
 plotly
 dash_bootstrap_components
 Pillow
-base64
 pandas
 gunicorn
