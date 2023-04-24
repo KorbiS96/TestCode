@@ -1,7 +1,7 @@
 dash
 plotly
 dash_bootstrap_components
-PIL
+Pillow
 io
 base64
 pandas
