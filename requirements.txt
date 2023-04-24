@@ -1,6 +1,5 @@
 dash==2.6.0
 dash_bootstrap_components
-PIL
 io
 base64
 pandas
